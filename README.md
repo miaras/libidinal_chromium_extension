@@ -4,3 +4,4 @@ How to install?
 - Go to `chrome://extensions`
 - Click "Load unpacked"
 - Select that directory x
+![alt text](https://raw.githubusercontent.com/jbaek080/hegel_chromium_extension/master/Capture.PNG)

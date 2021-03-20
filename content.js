@@ -7,15 +7,7 @@ function textNodesUnder(el){
 var textNodes = textNodesUnder(document);
 for (i = 0; i < textNodes.length; i++) {
     var node = textNodes[i];
-    if (node.textContent.includes("notion")) {
-        node.textContent = node.textContent.replace("notion", "Notion");
-    }
-
-    if (node.textContent.includes("idea")) {
-    node.textContent = node.textContent.replace("idea", "Idea");
-    }
-
-    if (node.textContent.includes("concept")) {
-    node.textContent = node.textContent.replace("concept", "Concept");
+    if (node.textContent.includes("libidinal")) {
+        node.textContent = node.textContent.replace("libidinal", "horny");
     }
 }

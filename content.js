@@ -8,6 +8,6 @@ var textNodes = textNodesUnder(document);
 for (i = 0; i < textNodes.length; i++) {
     var node = textNodes[i];
     if (node.textContent.includes("libidinal")) {
-        node.textContent = node.textContent.replace("libidinal", "horny");
+        node.textContent = node.textContent.replaceAll("libidinal", "horny");
     }
 }

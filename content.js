@@ -9,6 +9,7 @@ for (i = 0; i < textNodes.length; i++) {
     var node = textNodes[i];
     if (node.textContent.includes("libidinal")) {
         node.textContent = node.textContent.replaceAll("libidinal", "horny");
+    }
     if (node.textContent.includes("Libidinal")) {
         node.textContent = node.textContent.replaceAll("Libidinal", "Horny");
     }

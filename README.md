@@ -1,6 +1,7 @@
 # "Libidinal" to "Horny" Chromium Extension
 How to install?
-- Clone this repository, download all files into one directory, let's call it x
+- Clone this repository, or download all files into a directory
 - Go to `chrome://extensions`
+- Turn on Developer mode
 - Click "Load unpacked"
-- Select that directory x
+- Select the directory from step 1

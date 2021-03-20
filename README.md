@@ -5,5 +5,4 @@ How to install?
 - Turn on Developer mode
 - Click "Load unpacked"
 - Select the directory from step 1
-
-![alt text](https://raw.githubusercontent.com/jbaek080/libidinal_chromium_extension/master/Capture.PNG)
+![picture showing all libidinal replaced with horny](https://raw.githubusercontent.com/mina-png/libidinal_chromium_extension/master/Capture.PNG)
